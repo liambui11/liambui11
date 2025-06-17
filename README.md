@@ -1,3 +1,4 @@
+# 👋 Hi there, I'm Liam!
 # 💫 About Me:
 🎓 I'm a student at the Posts and Telecommunications Institute of Technology (PTIT)<br>💻 Major: Information Technology<br>🚀 Passionate about web development, data structures & algorithms, and system design.<br>📚 Currently improving my skills with real-world projects and open-source contributions.<br>📫 Contact me: buikinhluan0101@gmail.com
 
